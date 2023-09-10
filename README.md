@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ibb.co/0fmRTyQ"><img src="https://i.ibb.co/197t1Gb/gitbg.jpg" alt="gitbg" border="0"></a>
+  <a href="https://softteco.com/media/Temprorary_images/10-Reasons-Why-Your-Small-Business-Needs-a-Mobile-Application.png" alt="gitbg" border="0"></a>
 </p>
 <h1 align="center">Hi 👋, I'm Daniel Isaac Ithi</h1>
 <h3 align="center">A passionate Flutter and iOS native mobile application developer from India</h3>
