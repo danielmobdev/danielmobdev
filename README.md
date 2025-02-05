@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **iOS, Android, Flutter**
 
-- 📫 How to reach me **danielflutterdeveloper@gmail.com**
+- 📫 How to reach me **danielmobdev@gmail.com**
 
 - ⚡ Fun fact **My best ideas come to me at 2 AM, and I am not afraid to code them into reality. 🌙✨**
 
